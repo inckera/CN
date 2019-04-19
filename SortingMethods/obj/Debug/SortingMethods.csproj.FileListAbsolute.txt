@@ -1,0 +1,12 @@
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe.config
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\bin\Debug\SortingMethods.pdb
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\obj\Debug\SortingMethods.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\obj\Debug\SortingMethods.exe
+C:\Users\stud\Desktop\SortingMethods\SortingMethods\obj\Debug\SortingMethods.pdb
+D:\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe.config
+D:\SortingMethods\SortingMethods\obj\Debug\SortingMethods.exe
+D:\SortingMethods\SortingMethods\obj\Debug\SortingMethods.pdb
+D:\SortingMethods\SortingMethods\obj\Debug\SortingMethods.csprojResolveAssemblyReference.cache
+D:\SortingMethods\SortingMethods\bin\Debug\SortingMethods.exe
+D:\SortingMethods\SortingMethods\bin\Debug\SortingMethods.pdb
